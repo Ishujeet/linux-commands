@@ -2,7 +2,7 @@
 
 ## Easy Questions
 
-### ### Question 1:
+### Question 1:
 **What is the default output of the `df` command? Describe each column in the output.**
 
 **Answer:**
@@ -51,7 +51,7 @@ Explanation:
 
 The -h option displays the disk space in a human-readable format using appropriate units like KB, MB, GB.
 
-### ### Question 4:
+### Question 4:
 **How can you use df to show the disk space usage for all file systems, including those with zero usage?**
 
 **Answer:**
