@@ -1,0 +1,74 @@
+Here I have added the most common interview question used to test the Linux system Programming knowledge.
+
+
+
+1. Thread1 has string "ABCD", Thread2 has string "1234"  , the desired output is "A1B2C3D4"
+Write a C program in Linux to achieve the above.
+
+
+
+2. Assume we have one Server process and 5 different Client process running.
+
+objective: Server has data/message( say 100 bytes) and each data/message is to be delivered to specific client process, how do you achieve it?
+
+
+
+
+
+3. On what criteria the different IPC are chosen?
+
+
+
+4. Which is the fastest IPC among all IPC's ?
+
+
+
+5. What are Daemon process in Linux?
+
+
+
+6. Difference between Process and threads?
+
+
+
+7. Once we fork a child process from Parent process, what are common things shared between parent and child process?
+
+
+
+8.  What are system calls and explain how it works.
+
+
+
+9. What is Swap memory and what is its importance.
+
+
+
+10. What are the different file permissions?
+
+
+
+11. What are Environment Variables.
+
+
+
+12. what is KILL command in Linux used for?
+
+
+
+13. what are static and shared Libraries?
+
+
+
+14. What is difference between Pipes and FIFO?
+
+
+
+15. When we move a file, what happens  wrt to inode of  files?
+
+
+
+16. what tools are used to analyze memory leaks in Linux?
+
+
+
+17. What is a soft link and hard link. How the inode is affected between these files?
